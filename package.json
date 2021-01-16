@@ -1,0 +1,25 @@
+{
+  "name": "estacao-backend",
+  "version": "1.0.0",
+  "description": "backEnd da nossa aplicacao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipegomesoliveira/Estacao-backEnd.git"
+  },
+  "author": "Felipe gomes de Oliveira | Matheus pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipegomesoliveira/Estacao-backEnd/issues"
+  },
+  "homepage": "https://github.com/felipegomesoliveira/Estacao-backEnd#readme",
+  "dependencies": {
+    "@types/node": "^14.14.21",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
