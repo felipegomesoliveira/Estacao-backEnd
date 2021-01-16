@@ -21,7 +21,7 @@ Tabela de conteúdos
 
 ## Instruções para rodar :checkered_flag:
 
-<p id="instalação">Por ser um projeto com Node.js, há a necessidade do NodeJS. Com ele em 
+<p id="instalacao">Por ser um projeto com Node.js, há a necessidade do NodeJS. Com ele em 
 sua máquina, basta abrir o terminal e navegar até o repositório clonado e 
 rodar:
 
